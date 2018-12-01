@@ -1,0 +1,138 @@
+{
+    "took": 492,
+    "timed_out": false,
+    "_shards": {
+       "total": 5,
+       "successful": 3,
+       "failed": 0
+    },
+    "hits": {
+       "total": 30111166,
+       "max_score": 0,
+       "hits": []
+    },
+    "aggregations": {
+       "world_map": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets": [
+             {
+                "key": "ARE",
+                "doc_count": 1
+             },
+             {
+                "key": "AUS",
+                "doc_count": 2
+             },
+             {
+                "key": "BEL",
+                "doc_count": 2
+             },
+             {
+                "key": "CAN",
+                "doc_count": 4
+             },
+             {
+                "key": "CHL",
+                "doc_count": 1
+             },
+             {
+                "key": "CHN",
+                "doc_count": 3
+             },
+             {
+                "key": "DEU",
+                "doc_count": 7
+             },
+             {
+                "key": "FRA",
+                "doc_count": 5
+             },
+             {
+                "key": "GBR",
+                "doc_count": 12
+             },
+             {
+                "key": "GRC",
+                "doc_count": 1
+             },
+             {
+                "key": "HKG",
+                "doc_count": 2
+             },
+             {
+                "key": "IND",
+                "doc_count": 3
+             },
+             {
+                "key": "IRN",
+                "doc_count": 1
+             },
+             {
+                "key": "ISR",
+                "doc_count": 2
+             },
+             {
+                "key": "ITA",
+                "doc_count": 2
+             },
+             {
+                "key": "JPN",
+                "doc_count": 7
+             },
+             {
+                "key": "KOR",
+                "doc_count": 6
+             },
+             {
+                "key": "MYS",
+                "doc_count": 2
+             },
+             {
+                "key": "NOR",
+                "doc_count": 2
+             },
+             {
+                "key": "PAN",
+                "doc_count": 1
+             },
+             {
+                "key": "PHL",
+                "doc_count": 1
+             },
+             {
+                "key": "RUS",
+                "doc_count": 4
+             },
+             {
+                "key": "SAU",
+                "doc_count": 1
+             },
+             {
+                "key": "SRB",
+                "doc_count": 1
+             },
+             {
+                "key": "SWE",
+                "doc_count": 1
+             },
+             {
+                "key": "SYR",
+                "doc_count": 1
+             },
+             {
+                "key": "TUR",
+                "doc_count": 2
+             },
+             {
+                "key": "USA",
+                "doc_count": 203
+             },
+             {
+                "key": "ZAF",
+                "doc_count": 1
+             }
+          ]
+       }
+    }
+ }
